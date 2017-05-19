@@ -1,0 +1,144 @@
+body {
+margin:0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #330099;
+	background-color:#984562;	
+}
+
+.textcolor {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: white;
+	color: black;
+}
+
+
+.cellcolor{
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+}
+
+#label0{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+text-align: left;
+font-weight: bold;
+color: white;
+background-color:#984562;	
+position:absolute;
+left: 200px;	top: 20px;
+}
+
+
+#red{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #FF0000;
+background-color:#984562;	
+position:absolute;
+left:100px;
+top:275px;
+}
+
+
+#green{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #00FF00;
+background-color:#984562;	
+position:absolute;
+left: 175px;	top: 450px;
+}
+
+
+
+#blue{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #0000FF;
+background-color:#984562;	
+position:absolute;
+left: 375px;	top: 450px;
+}
+
+#yellow{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #FFFF00;
+background-color:#984562;	
+position:absolute;
+left: 350px;	top: 750px;
+}
+
+#cyan{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #00FFFF;
+background-color:#984562;	
+position:absolute;
+left: 450px;	top: 275px;
+}
+
+#magenta{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #FF00FF;
+background-color:#984562;	
+position:absolute;
+left: 275px;	top: 127px;
+}
+
+#orange{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #ff7f00;
+background-color:#984562;	
+position:absolute;
+left: px;	top: 750px;
+}
+
+#yellow-green{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #7fff00;
+background-color:#984562;	
+position:absolute;
+left: 150px;	top: 750px;
+}
+
+#green-cyan{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #00ff7f;
+background-color:#984562;	
+position:absolute;
+left: 150px;	top: 800px;
+}
+
+#cyan-blue{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #007fff;
+background-color:#984562;	
+position:absolute;
+left: px;	top: 800px;
+}
+
+#blue-magenta{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #7f00ff;
+background-color:#984562;	
+position:absolute;
+left: 350px;top: 750px;
+}
+
+
+
+div#links a:hover {color: #ff9933; border-color: #0814b0;}
+
+
+
+td {border-width: 1; padding: 1;}
+
+

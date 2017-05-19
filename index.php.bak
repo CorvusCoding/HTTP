@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Quebec.ioe</title>
+<link rel="stylesheet" href="css/custom.css">
+<!-- <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/neon.css"> -->
+<style>
+#if-location {
+position: absolute; left: 10px; top:200px;
+width:800px;
+height 500px;
+}
+img:hover {
+opacity: 0.5;
+}
+</style>
+</head>
+<body>
+<center>
+<!-- add more menu items here -->
+<a href="downloads/" class = "slink" target = " blank">Downloads</a>&nbsp;
+<a href="pma/" class = "menu" target = " blank">PMA</a>&nbsp;
+<a href="logs/" class = "slink" target = " blank" >Logs</a>
+<a href="contact.html" class = "menu" target = " blank">Contact</a>
+<a href="http://10.183.2.17:8080" class = "slink" target = " blank">Node Server (8080)</a>
+<a href="http://10.183.2.17:3000" class = "menu" target = " blank">Exapp (3000)</a>
+<a href="https://drive.google.com/drive/u/0/folders/0B5ojjPWlMX61a3BITUNHZ1Rrdmc" class = "slink" target = " blank">Docs</a>&nbsp;
+<a href="https://github.com/CorvusCoding?tab=repositories" class = "menu" target = " blank">Repos</a>
+<a href="JS/" class = "slink" target = "blank">JavaScript</a>
+
+
+<br />
+<a href = "dev" target = "_blank"><img src = "images/DEV.png" height = "50"></a>
+<a href = "js" target = "_blank"><img src = "images/javascript.png" height = "50"></a>
+<a href = "html" target = "_blank"><img src = "images/html.png" height = "50"></a> 
+<a href = "wordpress" target = "_blank"><img src = "images/wordpressbutton.png" height = "50"></a> 
+<a href = "php-app" target = "_blank"><img src = "images/phpapp.png" height = "50"></a> 
+<a href = "https://sites.google.com/a/tritechsc.org/sidneyb/" target = "_blank"><img src = "images/googlesite.png" height = "50"></a> 
+<a href = "https://github.com/CorvusCoding" target = "_blank"><img src = "images/github.png" height = "50"></a>
+<a href = "php" target = "_blank"><img src = "images/php.png" height = "50"></a>
+</center>
